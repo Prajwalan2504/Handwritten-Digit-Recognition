@@ -1,1 +1,1 @@
-# Handwritten-Digit-Recognition
+# Handwritten Digit Recognition code along with a code for GUI.The Handwritten Digit Recognition project aims to develop a machine learning model capable of accurately recognizing and classifying handwritten digits (0-9) from images.The project will use the MNIST dataset, a widely recognized dataset containing 60,000 training images and 10,000 testing images of handwritten digits. Each image is a 28x28 grayscale pixel image.
